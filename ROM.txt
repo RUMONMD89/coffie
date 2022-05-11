@@ -1,0 +1,2 @@
+ROM, which stands for read only memory, is a memory device or storage medium that stores information permanently.
+It is also the primary memory unit of a computer along with the random access memory (RAM). 

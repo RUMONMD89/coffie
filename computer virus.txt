@@ -1,0 +1,8 @@
+Computer viruses are unwanted software programs or pieces of code that interfere with the functioning of the computer.
+They spread through contaminated files, data, and insecure networks.
+Once it enters your system, it can replicate to produce copies of itself to spread from one program to another program and from one infected computer to another computer.
+Types of Computer Virus:
+Overwrite Virus:
+It is the simplest computer virus that overwrites the code of the host computer system's file with its own malicious code. 
+Append Virus:
+As the name suggests, this virus appends its malicious code to the end of the host program's file.

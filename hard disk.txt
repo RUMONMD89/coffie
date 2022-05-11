@@ -1,0 +1,3 @@
+A computer hard disk drive (HDD) is a non-volatile data storage device.
+Non-volatile refers to storage devices that maintain stored data when turned off.
+All computers need a storage device, and HDDs are just one example of a type of storage device.
