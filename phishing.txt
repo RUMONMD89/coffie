@@ -1,0 +1,4 @@
+Phishing is when attackers send malicious emails designed to trick people into falling for a scam. 
+The intent is often to get users to reveal financial information, system credentials or other sensitive data.
+Phishing is an example of social engineering: a collection of techniques that scam artists use to manipulate human psychology.
+ Social engineering techniques include forgery, misdirection and lying—all of which can play a part in phishing attacks. 
